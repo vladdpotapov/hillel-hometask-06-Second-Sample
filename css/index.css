@@ -1,0 +1,25 @@
+/* GENERAL SETTINGS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* HEADER */
+.header {
+    background-image: url('../img/bg-image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 124px 0 135px 0;
+}
+
+.header-text {
+    font-size: 48px;
+    color: #ffffff;
+    text-align: center;
+}
