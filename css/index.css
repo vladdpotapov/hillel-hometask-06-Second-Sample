@@ -24,9 +24,9 @@ body {
     text-align: center;
 }
 
-/* PRIVACY STATEMENT */
+/* PRIVACY STATEMENT SECTION*/
 .statement {
-    padding: 30px 0 70px 49px;
+    padding: 30px 48px 73px 48px;
 }
 
 .statement-title-h1 {
@@ -42,7 +42,7 @@ body {
 }
 
 .text-style {           /*statement-title, statement-date, statement-text*/
-    color: #33333;
+    color: #333333;
     font-weight: 400;
     line-height: 24px;
 }
@@ -51,3 +51,23 @@ body {
     font-weight: 700;
 }
 
+/* SHORT VERSION SECTION*/
+.short {
+    padding: 0 48px 69px 48px;
+}
+
+.short-title-h2 {
+    padding: 0 0 10px 0;
+    font-size: 24px;
+    font-weight: 400;
+    color: #325d72;
+}
+
+.short-text {
+    margin-top: 30px;
+}
+
+.short-text-link {
+    color: #4183c4;
+    text-decoration: none;
+}
